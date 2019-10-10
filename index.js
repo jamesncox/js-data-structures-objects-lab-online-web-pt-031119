@@ -1,10 +1,18 @@
 // Write your solution in this file!
 const driver = {};
 
-function updateDriverWithKeyAndValue();
+function updateDriverWithKeyAndValue(driver, key, value) {
+  
+};
 
-function destructivelyUpdateDriverWithKeyAndValue();
+function destructivelyUpdateDriverWithKeyAndValue() {
+  
+};
 
-function deleteFromDriverByKey()
+function deleteFromDriverByKey() {
+  
+};
 
-function destructivelyDeleteFromDriverByKey()
+function destructivelyDeleteFromDriverByKey() {
+  
+};
